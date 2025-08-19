@@ -10,8 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		String name = "loveday";
-
-		System.out.printIn(name);
 	}
 
 }
