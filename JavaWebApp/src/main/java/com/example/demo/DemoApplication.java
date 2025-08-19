@@ -11,7 +11,7 @@ public class DemoApplication {
 
 		String name = "loveday";
 
-		String System.out.printIn(name);
+		System.out.printIn(name);
 	}
 
 }
